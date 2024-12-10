@@ -1,6 +1,8 @@
 # Nordaran - W.I.P Title / Nordaran - W.I.P Titel
 
-Willkommen zu unserem Open-Source-Worldbuilding-Projekt! Hier erschaffen wir gemeinsam die Welt von Nordaran, einer düsteren High-Fantasy-Welt voller Magie und Konflikte.
+Willkommen zu unserem Open-Source-Worldbuilding-Projekt! Gemeinsam erschaffen wir die düstere High-Fantasy-Welt von Nordaran, einer Welt, in der die Götter die Sterblichen in eiserner Knechtschaft halten.
+
+Dieses Projekt lädt dich ein, Orte, Charaktere, Kulturen und mehr zu gestalten. Lass uns zusammen eine Welt schaffen, in der der Kampf gegen die Unterdrückung durch die göttlichen Mächte das Schicksal aller bestimmt!
 
 ## So kannst du mitmachen
 1. Lies das Framework und die Beitragsrichtlinien.
