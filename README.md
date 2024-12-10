@@ -168,26 +168,5 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Konflikte:** (Welche Konflikte treten in der Geschichte auf? Z. B. zwischen den Charakteren, der Natur, oder den Göttern?)
 - **Lösungen:** (Wie werden die Konflikte gelöst? Endet die Geschichte mit einem Sieg, einer Tragödie oder einer Wendung?)
 ````
-
-## **Anleitung für die Nutzung der Vorlagen**
-
-Wilkommen! Hier ist eine einfache Schritt-für-Schritt-Anleitung, wie du deine Ideen zur Welt von **Nordaran** beitragen kannst – auch wenn du keine Erfahrung mit GitHub hast.
-
-### 1. **Erstelle ein GitHub-Konto (falls du noch keins hast)**
-- Gehe auf [GitHub](https://github.com) und melde dich kostenlos an.
-- Folge den Anweisungen, um ein Konto zu erstellen.
-
-### 2. **Forke das Repository**
-„Forken“ bedeutet, dass du eine Kopie des Projekts in deinem eigenen GitHub-Account erstellst, sodass du Änderungen vornehmen kannst, ohne das ursprüngliche Projekt zu verändern.
-- Gehe zu unserem GitHub-Projekt: [Nordaran Open Source Worldbuilding](https://github.com/4F6D/Nordaran-OpenSource-World).
-- Klicke auf den grünen Button „Fork“ in der oberen rechten Ecke der Seite.
-- Dadurch wird eine Kopie des Repositories in deinem GitHub-Account erstellt.
-
-### 3. **Clone das Repository auf deinen Computer**
-- Auf deiner Fork-Seite gibt es nun einen Button „Code“, klicke darauf.
-- Kopiere den Link unter „HTTPS“.
-- Öffne dein GitHub-Programm oder Terminal auf deinem Computer und gebe den folgenden Befehl ein:
-
-```bash
-git clone [link, den du gerade kopiert hast]
-```
+## Kontakt
+Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/username/repository/discussions).
