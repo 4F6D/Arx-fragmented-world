@@ -59,3 +59,51 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Beziehungen zur göttlichen Herrschaft:** (Z. B. loyale Diener, rebellische Bewegungen.)
 - **Besondere Merkmale:** (Magische Leylinien, besondere Flora/Fauna, Ressourcen.)
 - **Konflikte:** (Beschreibe interne oder externe Konflikte, die diese Region betreffen.)
+
+# [Name des Charakters]
+
+## Beschreibung
+(Eine kurze Einführung: Herkunft, Beruf, Motivation.)
+
+## Details
+- **Persönlichkeit:** (Was treibt diesen Charakter an? Wie steht er zur Herrschaft der Götter?)
+- **Besondere Fähigkeiten:** (Falls zutreffend: Magie, besondere Talente oder Waffen.)
+- **Verbindungen:** (Beziehungen zu anderen Charakteren oder wichtigen Gruppen.)
+- **Ziele:** (Was möchte der Charakter erreichen?)
+- **Hintergrundgeschichte:** (Eine kurze Beschreibung der Vergangenheit des Charakters.)
+
+# [Name der Kultur]
+
+## Beschreibung
+(Eine kurze Einführung: Wo lebt diese Kultur, wie sind ihre Werte und Überzeugungen?)
+
+## Details
+- **Gesellschaftsstruktur:** (Wie ist die Gesellschaft aufgebaut? Gibt es Klassen, Kasten oder andere Strukturen?)
+- **Religion und Götterverehrung:** (Wie steht diese Kultur zu den Göttern? Sind sie loyal, rebellisch oder indifferent?)
+- **Traditionen und Bräuche:** (Wichtige Feste, Rituale oder Alltagsbräuche.)
+- **Sprache:** (Falls zutreffend, kurze Beschreibung oder Beispiele für die Sprache.)
+- **Beziehungen zu anderen Kulturen:** (Handel, Feindschaften, Bündnisse.)
+
+# [Name des Ereignisses]
+
+## Beschreibung
+(Eine kurze Zusammenfassung des Ereignisses: Was ist passiert und warum ist es bedeutend?)
+
+## Details
+- **Beteiligte:** (Wer war an diesem Ereignis beteiligt? Götter, Gruppen, einzelne Charaktere?)
+- **Zeitpunkt:** (Wann hat das Ereignis stattgefunden? Historischer oder aktueller Kontext.)
+- **Ort:** (Wo hat das Ereignis stattgefunden? Region, Stadt, oder spezifischer Schauplatz.)
+- **Auswirkungen:** (Wie hat das Ereignis die Welt verändert? Was waren die Konsequenzen?)
+
+# [Name des Artefakts]
+
+## Beschreibung
+(Eine kurze Einführung: Was ist dieses Artefakt und warum ist es wichtig?)
+
+## Details
+- **Aussehen:** (Wie sieht das Artefakt aus? Materialien, Form, besondere Merkmale.)
+- **Fähigkeiten:** (Was kann das Artefakt? Gibt es besondere Kräfte oder Einschränkungen?)
+- **Herkunft:** (Woher stammt es? Wer hat es erschaffen?)
+- **Bedeutung:** (Warum ist dieses Artefakt bedeutsam? Wird es von Göttern, Kulturen oder Einzelpersonen gesucht?)
+- **Risiken:** (Gibt es Gefahren oder Nachteile beim Gebrauch des Artefakts?)
+
