@@ -11,10 +11,10 @@ Dieses Projekt lädt dich ein, Orte, Charaktere, Kulturen und mehr zu gestalten.
 Das Nordaran-Open-Source-Worldbuilding-Projekt lebt von der Beteiligung der Community. Hier sind die Schritte, wie du deine Ideen einbringen kannst:
 
 ### 1. **Lies das Framework**
-Bevor du mit deinem Beitrag beginnst, lies das **Framework** und stelle sicher, dass dein Beitrag zum **Genre**, **Thema** und **Ton** der Welt passt. Du findest alle Informationen dazu im **[Wiki-Bereich](https://github.com/DEIN_USERNAME/Nordaran/wiki)**.
+Bevor du mit deinem Beitrag beginnst, lies das **Framework** und stelle sicher, dass dein Beitrag zum **Genre**, **Thema** und **Ton** der Welt passt. Du findest alle Informationen dazu im **[Wiki-Bereich](https://github.com/4F6D/Nordaran-OpenSource-World/wiki)**.
 
 ### 2. **Wähle ein Thema**
-Finde einen Bereich, der dich inspiriert! Möchtest du eine **Region**, einen **Charakter**, ein **Ereignis** oder eine **magische Fähigkeit** erstellen? Schaue dazu im **[Discussions-Bereich](https://github.com/DEIN_USERNAME/Nordaran/discussions)** nach, ob es bereits offene Aufgaben oder Ideen gibt, an denen du mitarbeiten kannst.
+Finde einen Bereich, der dich inspiriert! Möchtest du eine **Region**, einen **Charakter**, ein **Ereignis** oder eine **magische Fähigkeit** erstellen? Schaue dazu im **[Discussions-Bereich](https://github.com/4F6D/Nordaran-OpenSource-World/discussions)** nach, ob es bereits offene Aufgaben oder Ideen gibt, an denen du mitarbeiten kannst.
 
 ### 3. **Erstelle deinen Beitrag**
 Nutze die bereitgestellten **Vorlagen** und Formate für deinen Beitrag, damit deine Ideen konsistent in die Welt von Nordaran integriert werden können. Alle Vorlagen findest du im **Wiki**. Achte darauf, dass dein Text gut formatiert ist (Markdown wird bevorzugt). Falls du dir unsicher bist, schau dir auch die anderen Beiträge und Diskussionen an.
@@ -25,7 +25,7 @@ Nutze die bereitgestellten **Vorlagen** und Formate für deinen Beitrag, damit d
 - **Sende einen Pull Request** und füge eine kurze Beschreibung deines Beitrags hinzu, damit die anderen wissen, was du beigetragen hast.
 
 ### 5. **Bleibe in Kontakt**
-Diskutiere deine Ideen, stelle Fragen und gib Feedback im **[Discussions-Bereich](https://github.com/DEIN_USERNAME/Nordaran/discussions)**. Wir freuen uns auf deine Ideen und die gemeinsame Weiterentwicklung der Welt!
+Diskutiere deine Ideen, stelle Fragen und gib Feedback im **[Discussions-Bereich](https://github.com/4F6D/Nordaran-OpenSource-World/discussions)**. Wir freuen uns auf deine Ideen und die gemeinsame Weiterentwicklung der Welt!
 
 ---
 
