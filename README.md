@@ -4,6 +4,9 @@ Willkommen in der düsteren Welt von **Nordaran: Dunkle Kulte und alte Götter**
 
 Ob du ein erfahrener Worldbuilder oder ein neugieriger Anfänger bist – du bist hier genau richtig! Dein Beitrag, sei es eine Region, ein Charakter, ein dunkler Kult oder ein historisches Ereignis, ist willkommen und wird diese Welt bereichern.
 
+**[Beispielbeitrag](([https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Regeln](https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Beispiel-Beitrag-%E2%80%90-So-k%C3%B6nnte-dein-Beitrag-sein)))**
+
+
 ## Was ist Nordaran?
 
 **Nordaran** ist eine Fantasy-Welt, die von düsteren, uralten Göttern beherrscht wird. Diese Götter sind nicht nur übermächtig, sondern auch grausam, und ihre Diener, die dunklen Kulte, verehren sie mit rituellen Opfern und finsteren Zeremonien. Doch nicht jeder in dieser Welt strebt danach, gegen die Götter zu kämpfen. Viele akzeptieren das Schicksal und leben in den Schatten dieser dunklen Mächte, sei es aus Angst, Überzeugung oder aus dem Wunsch, in der Gesellschaft aufzusteigen.
