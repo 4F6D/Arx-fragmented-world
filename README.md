@@ -39,7 +39,7 @@ Damit das Projekt erfolgreich bleibt und jeder mit Freude daran teilhaben kann, 
 - **Beitragsrichtlinien:** Alle Beiträge sollten im Einklang mit dem Genre, Thema und Ton von **Nordaran** stehen. Deine Beiträge sollten auf der **MIT Lizenz** basieren, was bedeutet, dass sie von anderen genutzt und bearbeitet werden dürfen.
 - **Kreativität und Verantwortung:** Sei kreativ, aber achte darauf, dass deine Ideen zur Welt passen. Vermeide die Verwendung von urheberrechtlich geschützten Inhalten und schaffe originelle Beiträge.
 
-Mehr über die Regeln und Best Practices erfährst du im **[Regeln-Bereich](wiki/Regeln)**.
+Mehr über die Regeln und Best Practices erfährst du im **[Wiki-Bereich zu den Regeln](wiki/Regeln)**.
 
 ## Die Welt von Nordaran – Ein Überblick
 
@@ -71,6 +71,9 @@ Alle Beiträge werden vom Projektteam überprüft und ausgewählt, um sicherzust
 Alle eingereichten Beiträge unterliegen der **MIT Lizenz**, die es anderen erlaubt, deine Arbeit zu nutzen, zu verändern und zu verbreiten. Deine Beiträge können für zukünftige Projekte und Entwicklungen genutzt werden, z. B. in einem Spiel oder anderen Medien.
 
 #### **Verwendung in zukünftigen Projekten**
+Da dieses Projekt Open Source ist, besteht die Möglichkeit, dass Inhalte aus **Nordaran** in einem Spiel oder anderen Medien verwendet werden. Alle Mitwirkenden stimmen zu, dass ihre Beiträge unter der MIT-Lizenz veröffentlicht und verwendet werden dürfen.
+
+
 Da dieses Projekt Open Source ist, besteht die Möglichkeit, dass Inhalte aus **Nordaran** in einem Spiel oder anderen Medien verwendet werden. Alle Mitwirkenden stimmen zu, dass ihre Beiträge unter der MIT-Lizenz veröffentlicht und verwendet werden dürfen.
 
 
