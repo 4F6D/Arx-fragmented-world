@@ -48,6 +48,8 @@ Mitwirkende können in folgenden Bereichen kreativ werden:
 ## Vorlagen
 Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. Kopiere die passende Vorlage und füge sie in deine Datei ein, bevor du sie einreichst.
 
+### **Region**
+````markdown
 # [Name der Region]
 
 ## Beschreibung
@@ -59,7 +61,10 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Beziehungen zur göttlichen Herrschaft:** (Z. B. loyale Diener, rebellische Bewegungen.)
 - **Besondere Merkmale:** (Magische Leylinien, besondere Flora/Fauna, Ressourcen.)
 - **Konflikte:** (Beschreibe interne oder externe Konflikte, die diese Region betreffen.)
+````
 
+### **Charakter**
+````markdown
 # [Name des Charakters]
 
 ## Beschreibung
@@ -71,7 +76,10 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Verbindungen:** (Beziehungen zu anderen Charakteren oder wichtigen Gruppen.)
 - **Ziele:** (Was möchte der Charakter erreichen?)
 - **Hintergrundgeschichte:** (Eine kurze Beschreibung der Vergangenheit des Charakters.)
+````
 
+### **Kultur**
+````markdown
 # [Name der Kultur]
 
 ## Beschreibung
@@ -83,7 +91,10 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Traditionen und Bräuche:** (Wichtige Feste, Rituale oder Alltagsbräuche.)
 - **Sprache:** (Falls zutreffend, kurze Beschreibung oder Beispiele für die Sprache.)
 - **Beziehungen zu anderen Kulturen:** (Handel, Feindschaften, Bündnisse.)
+````
 
+### **Ereignis**
+````markdown
 # [Name des Ereignisses]
 
 ## Beschreibung
@@ -94,7 +105,10 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Zeitpunkt:** (Wann hat das Ereignis stattgefunden? Historischer oder aktueller Kontext.)
 - **Ort:** (Wo hat das Ereignis stattgefunden? Region, Stadt, oder spezifischer Schauplatz.)
 - **Auswirkungen:** (Wie hat das Ereignis die Welt verändert? Was waren die Konsequenzen?)
+````
 
+### **Artefakt**
+````markdown
 # [Name des Artefakts]
 
 ## Beschreibung
@@ -106,4 +120,4 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Herkunft:** (Woher stammt es? Wer hat es erschaffen?)
 - **Bedeutung:** (Warum ist dieses Artefakt bedeutsam? Wird es von Göttern, Kulturen oder Einzelpersonen gesucht?)
 - **Risiken:** (Gibt es Gefahren oder Nachteile beim Gebrauch des Artefakts?)
-
+````
