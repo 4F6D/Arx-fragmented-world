@@ -6,16 +6,26 @@ Dieses Projekt lädt dich ein, Orte, Charaktere, Kulturen und mehr zu gestalten.
 
 ---
 
-## So kannst du mitmachen
-1. **Lies das Framework:** Stelle sicher, dass dein Beitrag zum Genre, Thema und Ton der Welt passt.
-2. **Wähle ein Thema:** Suche dir einen Bereich aus, der dich inspiriert (z. B. eine Region, ein Charakter oder ein Ereignis). Schau dazu in den [Issues](https://github.com/4F6D/Nordaran-OpenSource-World/issues), ob es offene Aufgaben gibt.
-3. **Erstelle deinen Beitrag:**
-   - Nutze die bereitgestellten [Vorlagen](#vorlagen) für deinen Beitrag.
-   - Achte darauf, dass dein Text gut formatiert ist (Markdown wird bevorzugt).
-4. **Reiche deinen Beitrag ein:** 
-   - Forke dieses Repository.
-   - Füge deine Änderungen oder neuen Dateien hinzu.
-   - Sende einen Pull Request mit einer kurzen Beschreibung deines Beitrags.
+## Wie kannst du mitmachen?
+
+Das Nordaran-Open-Source-Worldbuilding-Projekt lebt von der Beteiligung der Community. Hier sind die Schritte, wie du deine Ideen einbringen kannst:
+
+### 1. **Lies das Framework**
+Bevor du mit deinem Beitrag beginnst, lies das **Framework** und stelle sicher, dass dein Beitrag zum **Genre**, **Thema** und **Ton** der Welt passt. Du findest alle Informationen dazu im **[Wiki-Bereich](https://github.com/DEIN_USERNAME/Nordaran/wiki)**.
+
+### 2. **Wähle ein Thema**
+Finde einen Bereich, der dich inspiriert! Möchtest du eine **Region**, einen **Charakter**, ein **Ereignis** oder eine **magische Fähigkeit** erstellen? Schaue dazu im **[Discussions-Bereich](https://github.com/DEIN_USERNAME/Nordaran/discussions)** nach, ob es bereits offene Aufgaben oder Ideen gibt, an denen du mitarbeiten kannst.
+
+### 3. **Erstelle deinen Beitrag**
+Nutze die bereitgestellten **Vorlagen** und Formate für deinen Beitrag, damit deine Ideen konsistent in die Welt von Nordaran integriert werden können. Alle Vorlagen findest du im **Wiki**. Achte darauf, dass dein Text gut formatiert ist (Markdown wird bevorzugt). Falls du dir unsicher bist, schau dir auch die anderen Beiträge und Diskussionen an.
+
+### 4. **Reiche deinen Beitrag ein**
+- **Forke** dieses Repository, um eine Kopie davon zu erstellen.
+- Füge deine Änderungen oder neuen Dateien hinzu, indem du die Informationen in den entsprechenden Bereichen (z. B. Wiki oder Diskussionen) aktualisierst.
+- **Sende einen Pull Request** und füge eine kurze Beschreibung deines Beitrags hinzu, damit die anderen wissen, was du beigetragen hast.
+
+### 5. **Bleibe in Kontakt**
+Diskutiere deine Ideen, stelle Fragen und gib Feedback im **[Discussions-Bereich](https://github.com/DEIN_USERNAME/Nordaran/discussions)**. Wir freuen uns auf deine Ideen und die gemeinsame Weiterentwicklung der Welt!
 
 ---
 
