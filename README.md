@@ -1,6 +1,6 @@
 # Willkommen im Nordaran-Open-Source-Worldbuilding-Projekt!
 
-Willkommen in der düsteren Welt von **Nordaran**! Dies ist ein gemeinschaftliches Open-Source-Projekt, bei dem wir zusammen eine tiefe, komplexe und faszinierende Fantasy-Welt erschaffen. In **Nordaran** sind die alten Götter und dunklen Kulte allgegenwärtig, die die Welt mit ihrem Willen durchdringen. Nicht jeder kämpft gegen sie – viele verehren sie in blinder Hingabe und tragen die Last ihrer dunklen Mächte.
+Willkommen in der düsteren Welt von **Nordaran: Dunkle Kulte und alte Götter**! Dies ist ein gemeinschaftliches Open-Source-Projekt, bei dem wir zusammen eine tiefe, komplexe und faszinierende Fantasy-Welt erschaffen. In **Nordaran** sind die alten Götter und dunklen Kulte allgegenwärtig, die die Welt mit ihrem Willen durchdringen. Nicht jeder kämpft gegen sie – viele verehren sie in blinder Hingabe und tragen die Last ihrer dunklen Mächte.
 
 Ob du ein erfahrener Worldbuilder oder ein neugieriger Anfänger bist – du bist hier genau richtig! Dein Beitrag, sei es eine Region, ein Charakter, ein dunkler Kult oder ein historisches Ereignis, ist willkommen und wird diese Welt bereichern.
 
