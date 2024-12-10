@@ -63,6 +63,15 @@ Viel Spaß beim Mitmachen und Entdecken!
 ---
 
 ### Wichtige Hinweise:
-- **Nicht jeder Vorschlag wird übernommen.** Alle Beiträge werden vom Projektteam überprüft und ausgewählt, um sicherzustellen, dass sie gut in die Welt von Nordaran passen.
-- **Offene Lizenz:** Alle eingereichten Beiträge unterliegen der **MIT Lizenz**, die es anderen erlaubt, deine Arbeit zu nutzen und zu bearbeiten.
+
+#### **Nicht jeder Vorschlag wird übernommen.**
+Alle Beiträge werden vom Projektteam überprüft und ausgewählt, um sicherzustellen, dass sie gut in die Welt von Nordaran passen. Wir behalten uns vor, Beiträge abzulehnen, die nicht zur Gesamtvision oder den grundlegenden Richtlinien des Projekts passen.
+
+#### **Offene Lizenz**
+Alle eingereichten Beiträge unterliegen der **MIT Lizenz**, die es anderen erlaubt, deine Arbeit zu nutzen, zu verändern und zu verbreiten. Deine Beiträge können für zukünftige Projekte und Entwicklungen genutzt werden, z. B. in einem Spiel oder anderen Medien.
+
+#### **Verwendung in zukünftigen Projekten**
+Da dieses Projekt Open Source ist, besteht die Möglichkeit, dass Inhalte aus **Nordaran** in einem Spiel oder anderen Medien verwendet werden. Alle Mitwirkenden stimmen zu, dass ihre Beiträge unter der MIT-Lizenz veröffentlicht und verwendet werden dürfen.
+
+
 
