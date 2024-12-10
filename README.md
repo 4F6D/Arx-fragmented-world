@@ -170,3 +170,12 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 ````
 ## Kontakt
 Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/4F6D/Nordaran-OpenSource-World/discussions).
+
+## **Disclaimer**
+
+- **Nicht jeder Vorschlag wird übernommen.** Obwohl wir uns freuen, dass du zur Welt von Nordaran beiträgst, behalten wir uns vor, nicht jeden Beitrag zu akzeptieren. Alle Beiträge werden vom Projektteam überprüft, und es kann sein, dass einige Ideen nicht ins Gesamtbild oder die Vision von Nordaran passen.
+  
+- **Offene Nutzung und Bearbeitung:** Alle Inhalte, die du zu diesem Projekt beiträgst, sind unter der [MIT Lizenz](https://opensource.org/licenses/MIT) lizenziert, was bedeutet, dass jeder die Welt von Nordaran benutzen, verändern und weiterverbreiten kann, wie er möchte. Du kannst deine eigenen Geschichten, Regionen, Charaktere, Monster und Magiesysteme hinzufügen oder anpassen, ohne vorherige Genehmigung zu benötigen.
+
+- **Mögliche Verwendung in einem Spiel:** Wir schließen nicht aus, dass die Welt von Nordaran irgendwann in einem Spiel oder anderen Projekten verwendet werden könnte. Alle Beitragsenden sollten sich bewusst sein, dass ihre Ideen für zukünftige Entwicklungen genutzt werden können. Wenn du Beiträge einreichst, stimmst du zu, dass dein Material unter der Lizenz des Projekts verwendet werden darf.
+
