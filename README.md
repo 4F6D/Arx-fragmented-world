@@ -20,4 +20,4 @@ Beiträge sollten folgende Abschnitte enthalten:
 - **Details:** Geografie, Geschichte, Konflikte, wichtige Charaktere, Beziehungen.
 
 ## Kontakt
-Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/4F6D/Nordaran-OpenSource-World).
+Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/4F6D/Nordaran-OpenSource-World/discussions).
