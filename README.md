@@ -121,3 +121,50 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Bedeutung:** (Warum ist dieses Artefakt bedeutsam? Wird es von Göttern, Kulturen oder Einzelpersonen gesucht?)
 - **Risiken:** (Gibt es Gefahren oder Nachteile beim Gebrauch des Artefakts?)
 ````
+
+### **Magie / Zauber**
+````markdown
+# [Name der Magie / Zauber]
+
+## Beschreibung
+(Eine kurze Beschreibung des Zaubers oder der magischen Kraft: Was tut sie und wie funktioniert sie?)
+
+## Details
+- **Art der Magie:** (Ist es Elementarmagie, Blutmagie, Beschwörung etc.?)
+- **Ziel:** (Was ist das Ziel des Zaubers? Zerstörung, Heilung, Illusionen?)
+- **Fähigkeiten:** (Welche speziellen Effekte hat die Magie? Kann sie die Realität verändern, den Raum verbiegen oder die Zeit manipulieren?)
+- **Einschränkungen:** (Gibt es Einschränkungen oder Risiken bei der Anwendung der Magie? Benötigt sie eine bestimmte Ressource oder kann sie nur von bestimmten Wesen ausgeführt werden?)
+- **Quellen:** (Woher kommt die Magie? Wird sie aus natürlichen Quellen gezogen, von Göttern oder Artefakten?)
+- **Verwendung:** (Wie wird die Magie angewendet? Ist sie leicht zugänglich oder nur wenigen zugänglich?)
+````
+
+### **Monster / Tiere**
+````markdown
+# [Name des Monsters]
+
+## Beschreibung
+(Eine kurze Beschreibung des Monsters: Aussehen, Herkunft, Verhalten.)
+
+## Details
+- **Größe:** (Wie groß ist das Monster? Besondere physische Merkmale.)
+- **Fähigkeiten:** (Welche besonderen Fähigkeiten hat das Monster? Magie, besondere Angriffe oder Verteidigung?)
+- **Schwächen:** (Gibt es bekannte Schwächen oder verwundbare Stellen?)
+- **Verhalten:** (Wie verhält sich das Monster? Ist es aggressiv, territorial oder scheu?)
+- **Lebensraum:** (Wo ist dieses Monster normalerweise zu finden? Wälder, Berge, Unterwelt?)
+- **Beziehungen:** (Hat das Monster besondere Beziehungen zu anderen Kreaturen oder Göttern?)
+````
+
+### **Stories / Quests**
+````markdown
+# [Titel der Geschichte]
+
+## Zusammenfassung
+(Eine kurze Zusammenfassung der Geschichte.)
+
+## Details
+- **Hauptfiguren:** (Welche Charaktere sind in der Geschichte involviert? Gebe eine kurze Beschreibung.)
+- **Ort:** (Wo spielt die Geschichte? Beschreibe die Umgebung oder den Schauplatz.)
+- **Ereignisse:** (Beschreibe die Hauptereignisse der Geschichte. Was passiert und warum ist es wichtig?)
+- **Konflikte:** (Welche Konflikte treten in der Geschichte auf? Z. B. zwischen den Charakteren, der Natur, oder den Göttern?)
+- **Lösungen:** (Wie werden die Konflikte gelöst? Endet die Geschichte mit einem Sieg, einer Tragödie oder einer Wendung?)
+````
