@@ -39,7 +39,7 @@ Damit das Projekt erfolgreich bleibt und jeder mit Freude daran teilhaben kann, 
 - **Beitragsrichtlinien:** Alle Beiträge sollten im Einklang mit dem Genre, Thema und Ton von **Nordaran** stehen. Deine Beiträge sollten auf der **MIT Lizenz** basieren, was bedeutet, dass sie von anderen genutzt und bearbeitet werden dürfen.
 - **Kreativität und Verantwortung:** Sei kreativ, aber achte darauf, dass deine Ideen zur Welt passen. Vermeide die Verwendung von urheberrechtlich geschützten Inhalten und schaffe originelle Beiträge.
 
-Mehr über die Regeln und Best Practices erfährst du im **[Wiki-Bereich zu den Regeln](wiki/Regeln)**.
+Mehr über die Regeln und Best Practices erfährst du im **[Wiki-Bereich zu den Regeln]([wiki/Regeln](https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Regeln))**.
 
 ## Die Welt von Nordaran – Ein Überblick
 
