@@ -18,6 +18,8 @@ Die Welt von **Nordaran** ist von dunkler Magie durchzogen, die von diesen böse
 
 ## Wie kannst du mitmachen?
 
+Für detaillierte Anweisungen, wie du aktiv zum Wiki beitragen kannst, sieh dir die [How-to-Wie kann ich mitmachen](https://github.com/4F6D/Nordaran-OpenSource-World/wiki/How-to-%E2%80%90-Wie-kann-ich-mitmachen) Seite an.
+
 Dieses Projekt lebt durch die Teilnahme der Community. Jeder kann einen wertvollen Beitrag leisten, und wir laden dich ein, die Welt von **Nordaran** mitzugestalten. Hier sind die ersten Schritte, um deinen Beitrag zu leisten:
 
 ### 1. **Lies das Framework**
