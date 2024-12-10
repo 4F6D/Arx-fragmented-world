@@ -169,4 +169,4 @@ Um deinen Beitrag zu strukturieren, verwende bitte eine der folgenden Vorlagen. 
 - **Lösungen:** (Wie werden die Konflikte gelöst? Endet die Geschichte mit einem Sieg, einer Tragödie oder einer Wendung?)
 ````
 ## Kontakt
-Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/username/repository/discussions).
+Bei Fragen oder Vorschlägen, nutze die [Discussions](https://github.com/4F6D/Nordaran-OpenSource-World/discussions).
