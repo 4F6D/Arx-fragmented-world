@@ -4,8 +4,11 @@ Willkommen in der düsteren Welt von **Nordaran: Dunkle Kulte und alte Götter**
 
 Ob du ein erfahrener Worldbuilder oder ein neugieriger Anfänger bist – du bist hier genau richtig! Dein Beitrag, sei es eine Region, ein Charakter, ein dunkler Kult oder ein historisches Ereignis, ist willkommen und wird diese Welt bereichern.
 
-**[Beispielbeitrag](([https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Regeln](https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Beispiel-Beitrag-%E2%80%90-So-k%C3%B6nnte-dein-Beitrag-sein)))**
+## Beispielbeitrag
 
+Um dir zu zeigen, wie ein Beitrag für unsere Welt aussehen könnte, haben wir ein **Beispiel** erstellt. Dieser Beitrag dient als Vorlage und Muster, das dir hilft, die Struktur und das Format unserer Wiki-Seiten zu verstehen.
+
+Du kannst dir den Beispielbeitrag hier anschauen: [Beispiel-Beitrag – So könnte dein Beitrag sein](https://github.com/4F6D/Nordaran-OpenSource-World/wiki/Beispiel-Beitrag-%E2%80%90-So-k%C3%B6nnte-dein-Beitrag-sein).
 
 ## Was ist Nordaran?
 
