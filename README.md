@@ -19,6 +19,48 @@ Dieses Projekt lädt dich ein, Orte, Charaktere, Kulturen und mehr zu gestalten.
 
 ---
 
+## **Regeln für das Worldbuilding-Projekt**
+
+Willkommen zu unserem Open-Source-Worldbuilding-Projekt! Wir freuen uns, dass du mit uns zusammen die Welt von **Nordaran** erschaffst. Damit das Projekt für alle eine positive Erfahrung bleibt, gibt es einige grundlegende Regeln, die wir bitten, zu beachten.
+
+### 1. **Respekt und Zusammenarbeit**
+- Sei respektvoll gegenüber anderen Mitgliedern des Projekts. Wir möchten eine freundliche und offene Atmosphäre fördern, in der alle ihre Ideen und Meinungen teilen können.
+- Jegliche Form von **Belästigung**, **Diskriminierung** oder **Hassrede** wird nicht toleriert. Bitte respektiere die Vielfalt der Mitwirkenden und ihre unterschiedlichen Perspektiven.
+- **Konstruktive Kritik** ist willkommen, aber bitte formuliere deine Kommentare respektvoll und hilfreich. Das Ziel ist es, zusammenzuarbeiten und das Projekt zu verbessern.
+
+### 2. **Beitragsrichtlinien**
+- Alle Beiträge müssen im Einklang mit den **Zielen** und dem **Thema** des Projekts stehen. Jeder Beitrag sollte zur Welt von **Nordaran** passen und die vorgesehene Atmosphäre und Storyline unterstützen.
+- Deine Beiträge müssen auf der **MIT Lizenz** basieren, die es anderen erlaubt, die Inhalte ebenfalls zu nutzen und zu bearbeiten.
+- Wir behalten uns das Recht vor, Beiträge abzulehnen, wenn sie nicht zur Gesamtvision des Projekts passen oder die Qualität nicht den Erwartungen entspricht.
+
+### 3. **Sensible Themen**
+- **Nordaran** ist eine **Fantasy-Welt**, in der komplexe Themen wie **Rassismus**, **Sexismus**, **Gewalt** und **Verbrechen** vorkommen können. Diese Themen können Teil der Weltgeschichte und der Charakterentwicklungen sein, um Konflikte und gesellschaftliche Strukturen zu reflektieren.
+- Bitte sei dir bewusst, dass diese Themen für **jüngere** oder **empfindlichere Leser** möglicherweise nicht geeignet sind. Wenn du in deinen Beiträgen solche Themen behandelst, achte darauf, sie sensibel und verantwortungsbewusst darzustellen. 
+- Für alle Beiträge, die explizite oder belastende Inhalte beinhalten, ist es ratsam, einen **Warnhinweis** zu setzen, damit Nutzer sich darauf einstellen können.
+
+### 4. **Kreativität und Grenzen**
+- Wir ermutigen kreative und originelle Ideen! Du kannst alles von **Regionen**, **Kulturen**, **Monstern**, bis hin zu **magischen Systemen** und **charaktergetriebenen Geschichten** beitragen.
+- **Plagiate** oder das Einfügen von urheberrechtlich geschützten Inhalten sind nicht erlaubt. Stelle sicher, dass deine Beiträge deine eigenen Ideen widerspiegeln oder ordnungsgemäß lizenziert sind.
+- Denke daran, dass **Nordaran** eine Fantasy-Welt ist. Es gibt Raum für magische Wesen, fantastische Landschaften und außergewöhnliche Ereignisse. Nutze die Freiheit der Fantasy, aber respektiere die Grundregeln und die Struktur der Welt.
+
+### 5. **Copyright und Verwendung von Marken**
+- Achte darauf, dass **das Copyright anderer Marken nicht verletzt** wird. Verwende keine Inhalte, die urheberrechtlich geschützt sind, es sei denn, du hast die entsprechende Erlaubnis.
+- Wir möchten, dass **Nordaran** eine originelle Welt bleibt. Das bedeutet, dass du keine bestehenden, geschützten Marken, Charaktere oder Inhalte ohne Genehmigung verwenden darfst.
+
+### 6. **Politische Themen und Ideologie**
+- Das Projekt soll **keine Plattform für reale politische Themen** oder ideologische Diskussionen bieten. Du kannst dich von realen Ereignissen oder politischen Themen inspirieren lassen, aber achte darauf, dass dein Beitrag in einem **fantastischen Kontext** bleibt und nicht als direkte Reflexion aktueller politischer Ereignisse dient.
+- Es ist erlaubt, **Kritik an realen Ereignissen** in Form von metaphorischen oder allegorischen Darstellungen zu üben, aber diese sollten nicht die Grundlage für ideologische Propaganda oder politische Aussagen bilden.
+- Das Ziel von **Nordaran** ist es, eine **Fantasy-Welt** zu erschaffen, die der Kreativität und dem Storytelling dient, ohne reale politische Agenden zu fördern.
+
+### 7. **Zukunft der Welt**
+- Diese Welt ist offen für alle, die dazu beitragen möchten. Wir können **Kollaborationen** und das **Verwenden von Inhalten** aus verschiedenen Quellen innerhalb des Projekts begrüßen.
+- Beachte jedoch, dass alle Inhalte unter der **MIT Lizenz** stehen, was bedeutet, dass sie in zukünftigen Projekten verwendet und bearbeitet werden können, z. B. in einem Spiel oder anderen Medien.
+
+---
+
+Wir freuen uns auf deine Beiträge und darauf, gemeinsam eine fantastische und tiefgründige Welt zu erschaffen. Viel Spaß beim Mitgestalten und Entdecken von **Nordaran**!
+
+
 ## Framework
 Das Framework bildet den Rahmen der Welt und sorgt dafür, dass alle Beiträge konsistent sind:
 
